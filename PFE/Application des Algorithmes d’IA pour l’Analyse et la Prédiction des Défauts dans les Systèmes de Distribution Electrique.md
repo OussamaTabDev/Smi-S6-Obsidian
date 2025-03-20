@@ -65,3 +65,6 @@ We'll train a **classification model** using **Scikit-Learn**. Options:
 ## **Shall we start with data preparation?**
 
 - Do you want to **find an existing dataset** or **generate synthetic data?** 🚀
+
+
+slam
