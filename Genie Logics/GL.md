@@ -1,6 +1,6 @@
 ### **What is this course about?**
 
-This course is about **Software Engineering (Génie Logiciel)**—a field of study that focuses on **<font color="#92cddc">designing</font>, <font color="#e36c09">developing</font>, <font color="#76923c">maintaining</font>, and improving software systems** in a structured and efficient way.
+This course is about **Software Engineering (Génie Logiciel)**—a field of study that focuses on **<font color="#92cddc">designing</font>, <font color="#e36c09">developing</font>, <font color="#76ff1c">maintaining</font>, and improving software systems** in a structured and efficient way.
 
 ### **What is the main idea of the course?**
 

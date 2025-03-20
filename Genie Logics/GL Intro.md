@@ -1,6 +1,6 @@
 
 ## What is [[GL|Genie logie]] ?
-## **Chapitre 1 : [[Généralités]]**
+## **Chapitre 1 : [[1.Généralités]]**
 
 Ce chapitre introduit la notion de **système** et ses caractéristiques :
 
@@ -31,7 +31,7 @@ Ce chapitre introduit la notion de **système** et ses caractéristiques :
 
 ---
 
-## **Chapitre 2 : [[Introduction au Génie Logiciel]]**
+## **Chapitre 2 : [[2.Introduction au Génie Logiciel]]**
 
 Ce chapitre explore les fondamentaux du génie logiciel.
 
@@ -64,7 +64,7 @@ Ce chapitre explore les fondamentaux du génie logiciel.
 
 ---
 
-## **Chapitre 3 : [[Cycle de vie du logiciel]]**
+## **Chapitre 3 : [[3.Cycle de vie du logiciel]]**
 
 Ce chapitre décrit les différentes **étapes du développement logiciel**.
 
@@ -89,7 +89,7 @@ Ce chapitre décrit les différentes **étapes du développement logiciel**.
 
 ---
 
-## **Chapitre 4 : Des besoins du client à la spécification du système**
+## **Chapitre 4 : [[4.Des besoins du client à la spécification du système]]**
 
 Ce chapitre traite de la **définition des besoins et de la rédaction des spécifications**.
 
@@ -134,7 +134,7 @@ Ce cours couvre **les bases du génie logiciel**, en expliquant les **principes 
 Si vous souhaitez une explication plus détaillée sur un point spécifique, dites-moi ! 😊
 
 ---
-## **Chapitre 5 : Méthodes d’analyse et de conception**
+## **Chapitre 5 : [[5.Méthodes d’analyse et de conception]]**
 
 Ce chapitre présente **les différentes méthodes utilisées pour analyser et concevoir un système informatique**, en particulier un **système d’information (SI)**. Il explore plusieurs **approches méthodologiques** : structurées, orientées objet et agiles.
 
