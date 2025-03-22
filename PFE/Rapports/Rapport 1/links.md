@@ -17,6 +17,7 @@ By the end of this tutorial, you will be able to sync your notes from Obsidian t
 7.  Paste the URL of the forked repository in the following format
 
 ```
+
 https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git
 
 ```
@@ -25,6 +26,7 @@ https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git
 For example it might look like this:
 
 ```
+
 https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/ithinkwong/linked-blog-starter-md.git
 
 ```
