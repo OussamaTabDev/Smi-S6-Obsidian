@@ -46,3 +46,7 @@ In essence, the video explains that Agile is a modern approach to software devel
 
 
 [Scum](https://www.youtube.com/watch?v=ozqQbCmtNdI)
+
+
+Arabic 
+[شرح](https://www.youtube.com/watch?v=veH7M-Gu0Zc&list=PL9Wuw9rXYbzA2qrRg26qtFAg792p23pv7)
