@@ -67,4 +67,7 @@ We'll train a **classification model** using **Scikit-Learn**. Options:
 - Do you want to **find an existing dataset** or **generate synthetic data?** 🚀
 
 
+<<<<<<< HEAD
 h
+=======
+>>>>>>> origin/main
