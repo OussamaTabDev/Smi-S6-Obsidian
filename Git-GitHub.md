@@ -77,7 +77,7 @@ If you want to update your local repository with the latest changes from GitHub:
 git pull origin main
 ```
 
-### **8. Create a Pull Request (If Contributing)**
+### **8. Create a Pull Request (If Contributing)***
 
 If you forked the repository or are working on a different branch, go to GitHub and create a pull request to merge your changes.
 
